@@ -1,0 +1,25 @@
+<메모장 이용>
+탐색기 > C:\users\사용자명\java 폴더\텍스트문서 생성(Hello.java (확장자 변경))
+
+<코드 작성>
+수시로 저장: Ctrl + S
+들여쓰기 : Tap키 (스페이스바 비추)
+본문 들여쓰기 준수(강추, 사람이 헷갈림)
+
+<명령창>
+dir : 디렉토리, 파일과 폴더들을 보여줌
+cd java : 자바 폴더 안으로 이동
+
+<컴파일>
+javac Hello.java (-> Hello.class 바이트코드 생성)
+
+<실행>
+java Hello(.class 를 생략)
+
+<한글처리 컴파일>
+javac -encoding utf-8 Hello.java
+
+<미션>
+파일명 : Name.java
+출력 : 내이름은 홍길동!!
+주의) 파일명과 클래스명은 대소문자까지 동일
